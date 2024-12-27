@@ -1,0 +1,2 @@
+# authenticating
+cakePHP authentication  demo
